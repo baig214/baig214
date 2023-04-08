@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammed Hannan Baig
-- 👀 I’m interested in Web Development, Bockchain and anything tech.
-- 🌱 I’m currently learning MERN Stack
+- 👀 I’m ASsociate Software Enginner based in Karnataka, India. I am interested in Web Development, Bockchain and anything tech.
+- 🌱 I’m currently learning MEAN Stack and any new technologies that comes my way.
 - 📫 You can reach me on my LinkedIn Profile https://www.linkedin.com/in/mohammed-hannan-baig-79a61678/
 
 <!---
